@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "809551271116",
+    "firebase_url": "https://push-not-9ec8e.firebaseio.com",
+    "project_id": "push-not-9ec8e",
+    "storage_bucket": "push-not-9ec8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809551271116:android:2f6f2ccf9107ce43",
+        "android_client_info": {
+          "package_name": "com.controlvan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809551271116-qumntsneiqrqfsqa3u6s3jli8d65l29i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7PDtbY8b8VYvffOPh3XKRvSdAsSsWHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
